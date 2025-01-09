@@ -8,8 +8,8 @@
 ## 🖥️ Information Technology Projects 🖥️
 
 Here are some of the IT projects I have worked on:
-Projects still being documented VVV
-
+ 
+## Projects Below are still being documented and being made 🔨
 - **[Docker in Azure](https://github.com/ikalelol/Docker)**: Implemented containerized applications using Docker within the Azure cloud environment.
 - **[Snipe-IT](https://github.com/ikalelol/SnipeIT)**: Deployed and configured an open-source IT asset management system to track and maintain hardware and software inventory.
 - **[BookStack](https://github.com/ikalelol/bookstack)**: Set up and customized a self-hosted knowledge management system for team collaboration.
