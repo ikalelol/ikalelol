@@ -1,7 +1,7 @@
 # Hello, I'm Mckale 👋
 
-## I am currently a 🌐 [IT Administrator](https://www.linkedin.com/in/ikale/) 🌐
-with a passion for implementing and managing robust IT systems and exploring innovative solutions for efficient workflows.
+## I am currently a 🌐 [IT Administrator](https://www.linkedin.com/in/ikale/) 🌐 with a passion for implementing and managing robust IT systems and exploring innovative solutions for efficient workflows.
+
 
 ---
 
