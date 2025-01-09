@@ -1,8 +1,7 @@
 # Hello, I'm Mckale 👋
 
-## 🌐 IT Administrator 🌐
-
-Welcome to my GitHub profile! I am an IT Administrator with a passion for implementing and managing robust IT systems and exploring innovative solutions for efficient workflows.
+## I an currently a 🌐 [IT Administrator](https://www.linkedin.com/in/ikale/) 🌐
+with a passion for implementing and managing robust IT systems and exploring innovative solutions for efficient workflows.
 
 ---
 
