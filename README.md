@@ -15,8 +15,7 @@ Here are some of the IT projects I have worked on:
 - **[Snipe-IT](https://github.com/ikalelol/SnipeIT)**: Deployed and configured an open-source IT asset management system to track and maintain hardware and software inventory.
 - **[BookStack](https://github.com/ikalelol/bookstack)**: Set up and customized a self-hosted knowledge management system for team collaboration.
 - **[VPN Setup](https://github.com/ikalelol/VMVPN-Setup)**: Configured secure Virtual Private Networks (VPNs) inside azure for remote access and secure data transmission.
-
----
+- **[qbittorrent vpn container](https://github.com/ikalelol/docker-qBitTorrent-protonVPN)**: Configured secure Virtual Private Networks (VPNs) inside of a qbittorrent docker container.
 
 ## 🌟 Skills and Expertise 🌟
 
