@@ -31,4 +31,5 @@ Here are some of the IT projects I have worked on:
 Feel free to reach out to discuss IT projects, collaboration, or any technology-related topics!
 
 - **LinkedIn**: [ikale](https://www.linkedin.com/in/ikale/)
+- **Email** : contact@mckaledev.com
 
