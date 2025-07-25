@@ -9,7 +9,7 @@ Here are some of the IT projects I have worked on:
 - **[Docker](https://github.com/ikalelol/Docker)**: Implemented and setup a Docker instance for containerized applications.
 
 ### Projects Below are still being documented and being made 🔨
-- **[homelab project stack](https://github.com/ikalelol)**: Implemented, Configured, and Maintained homelab environment that includes applications such as VPN, Cloudflare, etc. within docker.
+- **[homelab project stack](https://github.com/ikalelol/homelabstacks/tree/main)**: Implemented, Configured, and Maintained homelab environment that includes applications such as VPN, Cloudflare, etc. within docker.
 - **[business project stack](https://github.com/ikalelol/homelabstacks)**: Implemented, Configured, and Maintained enterprise environment related applications with docker.
 - **[Virtual Private Cloud](https://github.com/ikalelol)**: Configured a Virtual Private cloud(VPC) for VPN access and application exposure to the internet via AWS.
 
