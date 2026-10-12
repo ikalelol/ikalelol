@@ -8,10 +8,9 @@ Here are some of the IT projects I have worked on:
 - **[homelab](https://github.com/ikalelol/homelabstacks/tree/main) | ACTIVELY WORKING ON**: Implemented, Configured, and Maintained homelab environment that includes applications such as VPN, Cloudflare, etc. within docker.
 - **[Active Directory in Azure VMs](https://github.com/ikalelol/Azure-AD-setup)**: Built and managed Active Directory environments within Azure virtual machines to centralize domain and user management.
 - **[Docker](https://github.com/ikalelol/Docker)**: Implemented and setup a Docker instance for containerized applications.
-
+- **[business project docker stack](https://github.com/ikalelol/BusinessStack)**: Implemented, Configured, and Maintained enterprise environment related applications with docker.
   
 ### Projects Below are still being documented and being made 🔨
-- **[business project docker stack](https://github.com/ikalelol/homelabstacks)**: Implemented, Configured, and Maintained enterprise environment related applications with docker.
 - **[Proxmox Cluster Setup](https://github.com/ikalelol/homelabstacks)**: Implemented and Configured a Highly Available Proxmox Stack with redundant capabilites.
 - give me ideas :)
 
